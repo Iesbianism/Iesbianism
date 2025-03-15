@@ -1,5 +1,7 @@
 ![](https://i.postimg.cc/X7bQJbRk/heart-locket-1.gif)
 
+w2i + always offtab or doing something 👍
+no dni + i dont care for discourse 
 <!--
 **phantomsails/phantomsails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
