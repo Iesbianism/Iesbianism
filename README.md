@@ -9,6 +9,6 @@ not a big conversationalist but ill try if we share interests ^_^ <br/>
 
 due to not wanting to make others uncomf or social awkwardness i tend to not int first sorry <br/>
 
-majorily into **idv** , visual novels and theatre <br/>
+majorily into **idv** , visual novels and theatre + bibilical and religious themes<br/>
 
 i <3 luchino , aom cast and game 10 the mosts..  idv lore fanatic + copy cat player  <br/>
