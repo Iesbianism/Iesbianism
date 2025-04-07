@@ -11,9 +11,10 @@
   <!-- First Paragraph -->
   <p style="color: #cb973d;"> <!-- Apply color to the paragraph directly -->
     all art on github is by slothfail on twt<br/>
-    w2i + not a big conversationalist <br/>
+   c+h if you want ♡ usually offtab or afk working <br/>
+   I prefer whispers + very socially awkward   <br/>
     I love aom and idv lore.. <br/>
-    no dni , idc! 
+    no dni, idc! 
   </p>
 </div>
 
