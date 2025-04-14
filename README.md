@@ -15,7 +15,10 @@
    whisper to int, not a huge conversationalist   <br/>
    im awkward so I prefer silent interactions >> c+h always   <br/>
     I don't have specific criteria, anyone can interact with me <br/>
-   problem with me? just block bc ill go offtab at the sight of drama
+   problem with me? just block bc ill go offtab at the sight of drama<br/>
+   
+   formerly goreporn on github if you even care..<br/>
+   whoever reported my user its on sight.
   </p>
 </div>
 
