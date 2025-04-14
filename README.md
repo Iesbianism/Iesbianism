@@ -1,6 +1,5 @@
 <h3 align="center" style="color: #cb973d; line-height: 1.2;">
  
-
 </h3>
 
 <p align="center">
@@ -10,15 +9,16 @@
 <div align="center" style="font-size: 12px; line-height: 1.2;">
   <!-- First Paragraph -->
   <p style="color: #cb973d;"> <!-- Apply color to the paragraph directly -->
-     <br/>
-    usually offtab or afk,  <br/>
+    <br/>
+   usually offtab or afk,   <br/>
    whisper to int, not a huge conversationalist   <br/>
    im awkward so I prefer silent interactions >> c+h always   <br/>
-    I don't have specific criteria, anyone can interact with me <br/>
+   I don't have specific criteria, anyone can interact with me <br/>
    problem with me? just block bc ill go offtab at the sight of drama<br/>
-   
-   formerly goreporn on github if you even care..<br/>
-   whoever reported my user its on sight.
+    leave comments on my <a href="https://neospring.org/@eroge" style="color: #cb973d;">neospring</a> so I can feel cool <br/>
+    <br/>
+    formerly goreporn on github if you even care..<br/>
+    whoever reported my user its on sight.
   </p>
 </div>
 
