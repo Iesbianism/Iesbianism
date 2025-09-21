@@ -19,9 +19,9 @@
    <p>
   c+h is okay! even if we're not oomfs <br> 
   I'm 18+ , minors on 18+ dni and limit int >15 on pg <br> 
+  idgaf ab discourse , most antis should go away tho <br> 
   usually afk or offtab, whisps are preferred  <br> 
-  anti harras + anti censorship  <br> 
-  idgaf ab discourse <br> 
+  
   </p>
 
 
