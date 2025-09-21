@@ -1,24 +1,27 @@
-<h3 align="center" style="color: #cb973d; line-height: 1.2;">
- 
+<h3 align="center" style="color: #add8e6; line-height: 1.2;">
+  <!-- You can add a title here if needed -->
 </h3>
 
-<p align="center">
-  <img src="https://i.postimg.cc/sxJmP35R/get-to-work.png" alt="pokemon leon pixel art" width="450" />
-</p>
-
-<div align="center" style="font-size: 12px; line-height: 1.2;">
+<div align="center" style="color: #add8e6; font-size: 1rem; line-height: 1.2;">
   <!-- First Paragraph -->
-  <p style="color: #cb973d;"> <!-- Apply color to the paragraph directly -->
-    <br/>
-   usually offtab or afk,   <br/>
-   whisper to int, not a huge conversationalist   <br/>
-   im awkward so I prefer silent interactions >> c+h always   <br/>
-   I don't have specific criteria, anyone can interact with me <br/>
-   problem with me? just block bc ill go offtab at the sight of drama<br/>
-    leave comments on my <a href="https://neospring.org/@eroge" style="color: #cb973d;">neospring</a> so I can feel cool <br/>
-    <br/>
-    formerly goreporn on github if you even care..<br/>
-    whoever reported my user its on sight.
+  <p>
+    イケイケ！ Happy night! ノリたいだけ <br> 
+   <a href="https://rentry.co/atlast" style="color: #add8e6; text-decoration: none;">read rentry</a>⠀
+    ♡
+⠀<a href="https://slyblue.atabook.org/" style="color: #add8e6; text-decoration: none;"> sign ata</a>
   </p>
-</div>
+
+  <!-- Image between the first and second paragraph -->
+  <p align="center">
+    <img src="https://i.postimg.cc/3R99mDWM/F7-X8dh3-W0-AE7-BS3-Photoroom.png" width="300" alt="Image 1" style="margin-right: 5px; vertical-align: middle;" />
+  </p>
+
+   <p>
+  c+h is okay! even if we're not oomfs <br> 
+  I'm 18+ , minors on 18+ dni and limit int >15 on pg <br> 
+  usually afk or offtab, whisps are preferred  <br> 
+  anti harras + anti censorship  <br> 
+  idgaf ab discourse <br> 
+  </p>
+
 
