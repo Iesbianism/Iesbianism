@@ -6,7 +6,7 @@
   <!-- First Paragraph -->
   <p>
     イケイケ！ Happy night! ノリたいだけ <br> 
-   <a href="https://rentry.co/atlast" style="color: #add8e6; text-decoration: none;">read rentry</a>⠀
+   <a href="https://rentry.co/add" style="color: #add8e6; text-decoration: none;">read rentry</a>⠀
     ♡
 ⠀<a href="https://slyblue.atabook.org/" style="color: #add8e6; text-decoration: none;"> sign ata</a>
   </p>
