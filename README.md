@@ -5,8 +5,8 @@
 <div align="center" style="color: #add8e6; font-size: 1rem; line-height: 1.2;">
   <!-- First Paragraph -->
   <p>
-    イケイケ！ Happy night! ノリたいだけ <br> 
-   <a href="https://rentry.co/koujaku" style="color: #add8e6; text-decoration: none;">read rentry</a>⠀
+     <br> 
+   <a href="https://off-the-hook.straw.page/" style="color: #add8e6; text-decoration: none;">read straw</a>⠀
     ♡
 ⠀<a href="https://slyblue.atabook.org/" style="color: #add8e6; text-decoration: none;"> sign ata</a>
   </p>
@@ -17,10 +17,12 @@
   </p>
 
    <p>
-  c+h is okay! even if we're not oomfs <br> 
+  c+h is okay, even if we're not oomfs <br> 
   I'm 18+ , minors on 18+ dni and limit int >15 on pg <br> 
-  idgaf ab discourse , most antis should go away tho <br> 
-  usually afk or offtab, whisps are preferred  <br> 
+  idgaf ab discourse or drama, dont drag me into it <br> 
+  usually afk or offtab, whisps are preferred  <br>
+ im always really late to responding  <br>
+  so dont expect an answer always !
   
   </p>
 
