@@ -24,7 +24,7 @@
   so dont expect an answer always !
 
   i hide a lot of people and ponies, especially to minimalize clutter <br>
-  talk to me about pc builds & ow/nier !!! i also play final fantasy 14 sometimes 
+  i also hide people in public drama
   </p>
 
 
