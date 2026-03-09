@@ -6,9 +6,9 @@
   <!-- First Paragraph -->
   <p>
      <br> 
-   <a href="https://off-the-hook.straw.page/" style="color: #add8e6; text-decoration: none;">read straw</a>⠀
+⠀
     ♡
-⠀<a href="https://slyblue.atabook.org/" style="color: #add8e6; text-decoration: none;"> sign ata</a>
+
   </p>
 
   <!-- Image between the first and second paragraph -->
@@ -17,13 +17,14 @@
   </p>
 
    <p>
-  c+h is okay, even if we're not oomfs <br> 
-  I'm 18+ , minors on 18+ dni and limit int >15 on pg <br> 
-  idgaf ab discourse or drama, dont drag me into it <br> 
-  usually afk or offtab, whisps are preferred  <br>
- im always really late to responding  <br>
+  hi my name is two or doll<br> 
+  idgaf ab discourse or drama!!!! dont drag me into it <br> 
+  i dont have plans on making new friends ! so do not randomly add me <br>
+ whisps might be friends only , i mostly come on for friends, afk while i game or for my wife <br>
   so dont expect an answer always !
-  
+
+  i hide a lot of people and ponies, especially to minimalize clutter <br>
+  talk to me about pc builds & ow/nier !!! i also play final fantasy 14 sometimes 
   </p>
 
 
