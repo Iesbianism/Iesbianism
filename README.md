@@ -17,14 +17,13 @@
   </p>
 
    <p>
-  hi my name is two or doll<br> 
+  I only go by online users unless we're close :P <br> 
   idgaf ab discourse or drama!!!! dont drag me into it <br> 
-  i dont have plans on making new friends ! so do not randomly add me <br>
- whisps might be friends only , i mostly come on for friends, afk while i game or for my wife <br>
-  so dont expect an answer always !
+  my interests mostly contain to my horses <br>
 
-  i hide a lot of people and ponies, especially to minimalize clutter <br>
-  i also hide people in public drama
+I BLOCK LIKE CRAZY. dont joke w me lad <br>
+  men. do not bother me i hate you all
+  
   </p>
 
 
