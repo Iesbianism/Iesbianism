@@ -13,7 +13,7 @@
 
   <!-- Image between the first and second paragraph -->
   <p align="center">
-    <img src="https://i.postimg.cc/3R99mDWM/F7-X8dh3-W0-AE7-BS3-Photoroom.png" width="300" alt="Image 1" style="margin-right: 5px; vertical-align: middle;" />
+    <img src="https://i.postimg.cc/mgdXRnqm/tumblr-7e3d9c3b42d9f02b140b86e2641804ce-aab92ebf-400.jpg" alt="Image 1" style="margin-right: 5px; vertical-align: middle;" />
   </p>
 
    <p>
